@@ -1,0 +1,22 @@
+body{
+    background-color: yellow;
+}
+header{
+    background-color: orange;
+    color: black;
+}
+a{
+    background-color: black;
+    color: orange;
+    font-size: 50px;
+    text-decoration: none;
+    margin-left: 450px;
+}
+a:hover{
+    text-decoration: underline;
+}
+.bru{
+    width: 700px;
+    height: 100px;
+    border-radius: 10px;
+}
